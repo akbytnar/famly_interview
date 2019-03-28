@@ -1,15 +1,15 @@
 {
-  "main.css": "/famly/static/css/main.2ab0caed.chunk.css",
-  "main.js": "/famly/static/js/main.214d1357.chunk.js",
-  "main.js.map": "/famly/static/js/main.214d1357.chunk.js.map",
-  "runtime~main.js": "/famly/static/js/runtime~main.78334cc2.js",
-  "runtime~main.js.map": "/famly/static/js/runtime~main.78334cc2.js.map",
-  "static/css/2.64f91000.chunk.css": "/famly/static/css/2.64f91000.chunk.css",
-  "static/js/2.521dfeda.chunk.js": "/famly/static/js/2.521dfeda.chunk.js",
-  "static/js/2.521dfeda.chunk.js.map": "/famly/static/js/2.521dfeda.chunk.js.map",
-  "index.html": "/famly/index.html",
-  "precache-manifest.8cebe00817a8aa79376efbb943979b09.js": "/famly/precache-manifest.8cebe00817a8aa79376efbb943979b09.js",
-  "service-worker.js": "/famly/service-worker.js",
-  "static/css/2.64f91000.chunk.css.map": "/famly/static/css/2.64f91000.chunk.css.map",
-  "static/css/main.2ab0caed.chunk.css.map": "/famly/static/css/main.2ab0caed.chunk.css.map"
+  "main.css": "/famly_interview/static/css/main.2ab0caed.chunk.css",
+  "main.js": "/famly_interview/static/js/main.15250709.chunk.js",
+  "main.js.map": "/famly_interview/static/js/main.15250709.chunk.js.map",
+  "runtime~main.js": "/famly_interview/static/js/runtime~main.d1e4ccc3.js",
+  "runtime~main.js.map": "/famly_interview/static/js/runtime~main.d1e4ccc3.js.map",
+  "static/css/2.64f91000.chunk.css": "/famly_interview/static/css/2.64f91000.chunk.css",
+  "static/js/2.521dfeda.chunk.js": "/famly_interview/static/js/2.521dfeda.chunk.js",
+  "static/js/2.521dfeda.chunk.js.map": "/famly_interview/static/js/2.521dfeda.chunk.js.map",
+  "index.html": "/famly_interview/index.html",
+  "precache-manifest.6f58ba6a2a4530eeda69d12628d005aa.js": "/famly_interview/precache-manifest.6f58ba6a2a4530eeda69d12628d005aa.js",
+  "service-worker.js": "/famly_interview/service-worker.js",
+  "static/css/2.64f91000.chunk.css.map": "/famly_interview/static/css/2.64f91000.chunk.css.map",
+  "static/css/main.2ab0caed.chunk.css.map": "/famly_interview/static/css/main.2ab0caed.chunk.css.map"
 }
