@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900');
+@import "varibles";
+@import 'ChildrenList/ChildrenList';
+@import "ChildItem/ChildItem";
+@import "ChildCheckOut/ChildCheckOut.scss";
+@import "ChildCheckIn/ChildCheckIn";
+
+body{
+  color: $dark-blue;
+  font-family: 'Lato', sans-serif;
+}

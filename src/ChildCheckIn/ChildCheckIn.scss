@@ -1,0 +1,19 @@
+.modal-in{
+  width: 420px;
+  left: calc(50% - 250px);
+}
+.checkIn{
+  &-selectBox{
+    border:1px solid $green;
+    width: max-content;
+    padding: 10px;
+    margin: 10px auto;
+    color: $green;
+    border-radius: 30px;
+    select{
+      background: white;
+      border: none;
+      color: $green;
+    }
+  }
+}

@@ -1,0 +1,106 @@
+//COLORS
+$red: #f65e50;
+$dark-blue: #3b384c;
+$light-blue:#dfe8ef;
+$yellow: #fbd976;
+$blue: #005da3;
+$green: #01a279;
+$violet: #993e83;
+
+//SHADOW
+$shadow:  0px 0px 25px 0px rgba(162, 162, 162, 0.2);
+
+//TYPOGRAPHY
+h2{
+  font-size: 16px;
+  font-weight: 400;
+  margin: 7px;
+}
+p{
+  font-size: 12px;
+}
+.color-green{
+  color: $green;
+}
+.color-blue{
+  color: $blue;
+}
+
+//BUTTONS
+button{
+  cursor: pointer;
+  outline: none;
+  border: 1px solid $blue;
+  background: none;
+  border-radius: 20px;
+  color: $blue;
+  padding: 10px 30px;
+  font-size: 12px;
+}
+.button--blue-border{
+  border-color: $blue;
+  color: $blue;
+}
+.button--blue-full{
+  border-color: $blue;
+  color: white;
+  background: $blue;
+}
+.button--green-border{
+  border-color: $green;
+  color: $green;
+}
+.button--green-full{
+  border-color: $green;
+  color: white;
+  background: $green;
+}
+.button--red-border{
+  border-color: $red;
+  color: $red;
+}
+
+//MODAL
+$padding-modal: 40px;
+.Modal {
+  padding: $padding-modal;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  right: 20%;
+  height: max-content;
+  background-color: white;
+}
+
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(41, 41, 45, 0.5);
+}
+
+.modal-error{
+  width: 180px;
+  left: calc(50% - 90px);
+}
+
+//HELPERS
+.center{
+  text-align: center;
+}
+.center-2d{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.m-t-30{
+  margin-top:30px;
+}
+.errorMsg{
+  @extend .center;
+  color: $red;
+  margin-top: 30%;
+}
+

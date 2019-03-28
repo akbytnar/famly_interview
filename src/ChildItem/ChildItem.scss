@@ -1,0 +1,33 @@
+
+.children-card{
+  cursor: pointer;
+  box-shadow: $shadow;
+  text-align: center;
+  padding: 20px 0;
+  margin:40px;
+  &__avatar{
+    margin: auto;
+    position:relative;
+    height: 80px;
+    width: 80px;
+    &-photo{
+      border-radius: 100%;
+      height: 100%;
+      width: auto;
+    }
+    &-icon{
+      position: absolute;
+      top: -5px;
+      right: -15px;
+      height: 30px;
+    }
+  }
+  &__text{
+    padding-top:10px;
+  }
+  &__icon{
+    width: 20px;
+    height:auto;
+  }
+}
+
